@@ -4,11 +4,11 @@
 
 Hello everyone ✌️ 
 
-Create swipe-able cell with action for TableView Cell. In the project you will find private functions that are responsible for:View
+Create swipe-able cell with action for TableView Cell. Also you may read [Documentation](https://developer.apple.com/documentation/uikit/uitableviewdelegate/1614956-tableview) by Apple. In the project you will find private functions that are responsible for:
 - Removing value from array and TableView
 - Open UIAlertController  
 
-Also you may read [Documentation](https://developer.apple.com/documentation/uikit/uitableviewdelegate/1614956-tableview) by Apple. If you like the project, do not forget to put star and follow me on GitHub:
+If you like the project, do not forget to put star and follow me on GitHub:
 
 [![https://github.com/amirhanov](https://github.com/amirhanov/backgroundVideo/blob/master/Source/gitHub.svg)](https://github.com/amirhanov)
 
