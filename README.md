@@ -4,9 +4,11 @@
 
 Hello everyone ✌️ 
 
-Create swipe-able cell with action for TableView Cell. In the video tutorial, you will learn how to create an array, assign it to table cells and create actions for cells. Also you may read [Documentation](https://developer.apple.com/documentation/uikit/uitableviewdelegate/1614956-tableview) by Apple.
+Create swipe-able cell with action for TableView Cell. In the project you will find private functions that are responsible for:View
+- Removing value from array and TableView
+- Open UIAlertController  
 
-If you like the project, do not forget to put star and follow me on GitHub:
+Also you may read [Documentation](https://developer.apple.com/documentation/uikit/uitableviewdelegate/1614956-tableview) by Apple. If you like the project, do not forget to put star and follow me on GitHub:
 
 [![https://github.com/amirhanov](https://github.com/amirhanov/backgroundVideo/blob/master/Source/gitHub.svg)](https://github.com/amirhanov)
 
@@ -16,7 +18,7 @@ Swift `3+`
 
 ## Example
 
-To run the example project, you need press `Command` + `R` or `Play`. You can see tutorial for this project on [YouTube](https://youtu.be/eVBg6xkwGHo).
+To run the example project, you need press `Command` + `R` or `Play`. You can see tutorial for this project on [YouTube](https://youtu.be/eVBg6xkwGHo). In the video tutorial, you will learn how to create an array, assign it to table cells and create actions for cells.
 
 ## Usage
 
