@@ -4,7 +4,7 @@
 
 Hello everyone ✌️ 
 
-Create swipe-able cell with action for TableView Cell.
+Create swipe-able cell with action for TableView Cell. In the video tutorial, you will learn how to create an array, assign it to table cells and create actions for cells. Also you may read [Documentation](https://developer.apple.com/documentation/uikit/uitableviewdelegate/1614956-tableview) by Apple.
 
 If you like the project, do not forget to put star and follow me on GitHub:
 
@@ -31,11 +31,13 @@ let nameAction = UITableViewRowAction(style: .default, title: "Share") { (_, ind
 }
 ```
 
-2. Return button in array 
+2. Return button in array ***return***:
 
 ```
 return [nameAction, ...]
 ```
+
+3. Press `Command + R` or `Play` and run project. **Great!**
 
 ## Support
 
