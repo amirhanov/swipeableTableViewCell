@@ -22,7 +22,7 @@ To run the example project, you need press `Command` + `R` or `Play`. You can se
 
 ## Usage
 
-How to add new action button? so you need  to: 
+How to add new action button? So you need  to: 
 
 1. In **editActionsForRowAt** method you need to add new lines: 
 
